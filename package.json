@@ -1,0 +1,19 @@
+{
+  "name": "spotify-api",
+  "version": "1.0.0",
+  "description": "spotify playlist parser",
+  "main": "playlist-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kPaulv/PlaylistParser.git"
+  },
+  "author": "kPaulv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kPaulv/PlaylistParser/issues"
+  },
+  "homepage": "https://github.com/kPaulv/PlaylistParser#readme"
+}
